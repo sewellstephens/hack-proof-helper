@@ -12,4 +12,4 @@ To ensure inspector panel isn't an easy workaround, redirect the user in the bac
 # Example code in repo
 This repo contains example code under the name 'example.js'.
 
-![image](https://github.com/sewellstephens/hack-proof-helper/blob/main/made-by.png)
+[![image](https://github.com/sewellstephens/hack-proof-helper/blob/main/made-by.png)](https://sewellstephens.com)
